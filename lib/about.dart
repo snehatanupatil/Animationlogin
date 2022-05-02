@@ -16,7 +16,7 @@ class _About extends State<About> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('About')),
+        title: const Text('Aboutt')),
       body:
       PdfView(
         controller: pdfController,
